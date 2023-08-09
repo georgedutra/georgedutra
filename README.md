@@ -1,7 +1,7 @@
 # Nice to meet you!
 - 👋 Hi, I’m George (@georgedutra)
 - 👀 I’m interested in games, music, cats and programming
-- 👨🏼‍🎓 I’m currently majoring in Data Science and Artificial Intelligence at FGV
+- 🎓 I’m currently majoring in Data Science and Artificial Intelligence at FGV
 - 🤝🏼 I’m looking to collaborate on academic works and ways to help me learn more about programming
 - 📫 To contact me just send an e-mail to georgedutra661@gmail.com
 
